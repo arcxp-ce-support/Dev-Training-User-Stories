@@ -1,0 +1,7 @@
+[
+    {
+        "_id": "yourSiteId",
+        "display_name": "YOUR_SITE_NAME",
+        "is_default_website": true
+    }
+]

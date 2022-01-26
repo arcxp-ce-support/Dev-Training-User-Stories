@@ -1,0 +1,14 @@
+**/.DS_Store
+**/node_modules
+
+/.vscode
+/.fusion
+
+/data/db/
+/data/dumps/**
+!/data/dumps/.gitkeep
+/data/restore/**
+!/data/restore/.gitkeep
+
+/dist
+/coverage
